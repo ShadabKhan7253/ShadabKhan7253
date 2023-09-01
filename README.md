@@ -1,4 +1,4 @@
-![logo](https://github.com/ShadabKhan7253/ShadabKhan7253/blob/main/api.gif)
+![logo](https://github.com/ShadabKhan7253/ShadabKhan7253/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shadab Khan</h1>
 <h3 align="center">Highly motivated Full Stack Developer with a passion for creating efficient and user-friendly web applications. Proficient in front-end and back-end technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://tinyurl.com/mpsk9bbu">
