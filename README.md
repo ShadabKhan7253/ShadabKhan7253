@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadab Khan</h1>
 <h3 align="center">Highly motivated Full Stack Developer with a passion for creating efficient and user-friendly web applications. Proficient in front-end and back-end technologies. Eager to contribute my skills in front-end and back-end technologies to a dynamic development team while continuously expanding my knowledge and expertise in web development</h3>
-<img align="right" alt="Coding" width="400" src="[https://tinyurl.com/mpsk9bbu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-developer&psig=AOvVaw3sz-3kJBDIVr-yMtq8Rrql&ust=1724052036784000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj1mruA_ocDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadabkhan7253&label=Profile%20views&color=0e75b6&style=flat" alt="shadabkhan7253" /> </p>
 
