@@ -39,7 +39,6 @@ I am a Software Developer passionate about building secure, scalable, and high-p
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
-![Security](https://img.shields.io/badge/Secure_File_Transfer-DC2626?style=for-the-badge)
 
 ---
 
